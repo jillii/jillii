@@ -1,16 +1,24 @@
-### Hi there 👋
+<div id="header" align="center">
 
-<!--
-**jillii/jillii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, I'm Jill 
 
-Here are some ideas to get you started:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jillianhoenig/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@jillii" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
+## About me 
+⭐ I'm a fullstack engineer for a small digital marketing agency in Boston
+⭐ I've been programming since 2012
+⭐ I have all kinds of projects up my sleeves... ask me about my wheel of fortune app!
+
+
+\*\~ Open to collaberations \~\*
+
+</div>
