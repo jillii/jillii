@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header">
 
 ## Hey, I'm Jill 
 
@@ -16,16 +16,18 @@
     <img src="https://img.shields.io/badge/Guess%20The%20Phrase-orange?style=for-the-badge" alt="Wheel of fortune react app"/>
   </a>
 </div>
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-
-### About me 
-⭐ Fullstack engineer for a small digital marketing agency in Boston
-⭐ Programming since 2012
-⭐ Electronic musician
-⭐ Web artist
-
-
+</div>
+<div>
+  
+## About me <br>
+  
+⭐ Fullstack engineer for a small digital marketing agency in Boston<br>
+⭐ Programming since 2012<br>
+⭐ Electronic musician<br>
+⭐ Web artist<br>
+</div>
 
 \*\~ Open to collaberations \~\*
 
