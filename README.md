@@ -9,7 +9,7 @@
   <a href="https://jillii.github.io/guess-the-phrase/" target="_blank">
     <img src="https://img.shields.io/badge/Guess%20The%20Phrase-coral?style=for-the-badge" alt="Wheel of fortune react app"/>
   </a>
-  <a href="[https://jillii.github.io/guess-the-phrase/](https://playlistswithfriends.app/)" target="_blank">
+  <a href="https://playlistswithfriends.app/" target="_blank">
     <img src="https://img.shields.io/badge/Playlists%20With%20Friends%20(WIP)-navy?style=for-the-badge" alt="Playlists With Friends"/>
   </a>
 </div>
