@@ -28,7 +28,7 @@
   
 ## About me <br>
   
-⭐ Fullstack engineer for a small digital marketing agency in Boston<br>
+⭐ Fullstack engineer for 10+ years<br>
 ⭐ Programming since 2012<br>
 ⭐ Electronic musician<br>
 ⭐ Web artist<br>
