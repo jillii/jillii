@@ -29,7 +29,7 @@
 ## About me <br>
 
 ⭐ Programming since 2012<br>
-⭐ Fullstack engineer for 10+ years<br>
+⭐ Fullstack engineer for 9+ years<br>
 ⭐ Electronic musician<br>
 ⭐ Web artist<br>
 </div>
